@@ -10,3 +10,7 @@ Apply LIME to visualize and explain predictions.
 Evaluate and compare performance metrics.
 
 Contribute to explainable AI for sensitive mental health applications.
+heres the dashboard which explain you in sentence which word comes under which class
+<img width="892" height="267" alt="image" src="https://github.com/user-attachments/assets/01655429-0595-4b2f-ad69-9b96d672df3f" />
+heres the confusion matrix
+<img width="602" height="520" alt="image" src="https://github.com/user-attachments/assets/cf443592-8554-4829-b596-fc96bec2df28" />
